@@ -29,6 +29,9 @@ h4{
 .data{
     text-decoration: underline;
 }
+.photocss{
+    text-decoration: underline;
+}
 
 .edu{
     text-decoration: underline;
@@ -187,8 +190,4 @@ hr{
 .copy{
     padding: 1rem 0 0 0;
     font-size: 0.8rem;
-}
-
-.photocss{
-	text-decoration: underline;
 }
