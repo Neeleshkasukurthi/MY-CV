@@ -29,9 +29,7 @@ h4{
 .data{
     text-decoration: underline;
 }
-.photo{
-    text-decoration: underline;
-}
+
 .edu{
     text-decoration: underline;
 }
@@ -192,5 +190,5 @@ hr{
 }
 
 .photocss{
-	
+	text-decoration: underline;
 }
