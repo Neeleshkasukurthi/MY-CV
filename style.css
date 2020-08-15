@@ -48,7 +48,7 @@ h4{
     margin: 0 1.8rem 0 1.8rem;
 }
 
-.photocss{
+.photo{
     width: 17%;
     height: 17%;
     float: left;
@@ -189,4 +189,8 @@ hr{
 .copy{
     padding: 1rem 0 0 0;
     font-size: 0.8rem;
+}
+
+.photocss{
+	
 }
