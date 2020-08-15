@@ -47,6 +47,14 @@ h4{
     float: right;
     margin: 0 1.8rem 0 1.8rem;
 }
+
+.photo{
+    width: 17%;
+    height: 17%;
+    float: left;
+    margin: 0 1.8rem 0 1.8rem;
+}
+
 .top-container{
     background-color: #EAF6F6;
     position: relative;
@@ -89,6 +97,12 @@ h4{
 .skill-row2{
     width: 50%;
     margin: 3rem auto 6.25rem auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill-row3{
+    width: 50%;
+    margin: 3rem auto 3rem auto;
     text-align: left;
     line-height: 2;
 }
